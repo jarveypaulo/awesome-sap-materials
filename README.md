@@ -22,3 +22,4 @@ A collection of awesome online SAP materials.
 - [Analytics & Fiori with the Analysis Path Framework](http://de.slideshare.net/ttrapp/analytics-fiori-with-the-analysis-path-framework) by
 Tobias Trapp
 - [UI5Con Recap](http://scn.sap.com/community/developer-center/front-end/blog/2016/03/13/my-ui5con-recap) by Kimmo Jokinen
+- [SVG Custom Control Development and node.js OData Server](https://prezi.com/xqbz93q6zsv9/ui5con/?utm_campaign=share&utm_medium=copy) by Helmut Tammen 
