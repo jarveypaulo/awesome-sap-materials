@@ -8,7 +8,8 @@ A collection of awesome online SAP materials.
 - SAP Inside Tracks
   - [SAP Inside Track Frankfurt 2016](#sap-inside-track-frankfurt-2016)
 - UI5 Con
-  - [SAP UI5Con Frankfurt 2016](#sap-ui5con-frankfurt-2016  )
+  - [SAP UI5Con Frankfurt 2016](#sap-ui5con-frankfurt-2016)
+- [Other useful materials](#other-useful-materials)
 
 ### SAP Inside Track Frankfurt 2016
 - [SAP Developer Center - March 2016 update](http://www.slideshare.net/VitaliyRudnytskiy/sap-developer-center) by Vitaliy Rudnytskiy
@@ -30,3 +31,7 @@ Tobias Trapp
 - [SVG Custom Control Development and node.js OData Server](https://prezi.com/xqbz93q6zsv9/ui5con/?utm_campaign=share&utm_medium=copy) by Helmut Tammen
 - [Controls - How They Work, How to Create Your Own](http://de.slideshare.net/andreaskunz/ui5-controls-ui5con-2016) by Andreas Kunz
 - [ABAP TO Fiori and back using OO](http://prezi.com/mfahxi_cen_z/) by Lemaire Wouter &onCoppey Jeremy
+
+
+### Other useful materials
+- [SAPUI5-Deployer Project](http://scn.sap.com/community/ui-technology/blog/2015/05/24/sapui5-deployer-project) by Graham Robinson
