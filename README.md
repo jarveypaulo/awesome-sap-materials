@@ -31,6 +31,7 @@ Tobias Trapp
 - [SVG Custom Control Development and node.js OData Server](https://prezi.com/xqbz93q6zsv9/ui5con/?utm_campaign=share&utm_medium=copy) by Helmut Tammen
 - [Controls - How They Work, How to Create Your Own](http://de.slideshare.net/andreaskunz/ui5-controls-ui5con-2016) by Andreas Kunz
 - [ABAP TO Fiori and back using OO](http://prezi.com/mfahxi_cen_z/) by Lemaire Wouter &onCoppey Jeremy
+- [UI5con - The OpenUI5 Spirit](http://de.slideshare.net/michadelic/ui5con-the-openui5-spirit) by Micha Delic
 
 
 ### Other useful materials
