@@ -8,13 +8,18 @@ A collection of awesome online SAP materials.
 - SAP Inside Tracks
   - [SAP Inside Track Frankfurt 2016](#sap-inside-track-frankfurt-2016)
 - UI5 Con
-  - [SAP UI5Con Frankfurt 2016](#sap-ui5con-frankfurt-2016)
+  - [SAP UI5Con Frankfurt 2016](#sap-ui5con-frankfurt-2016  )
 
 ### SAP Inside Track Frankfurt 2016
 - [SAP Developer Center - March 2016 update](http://www.slideshare.net/VitaliyRudnytskiy/sap-developer-center) by Vitaliy Rudnytskiy
 - [10 Tipps to improve your ABAP debugging workflow](https://github.com/christianguenter2/sitFRA_2016) by Christian Günter
 - [Best Practices SAP Gateway Builder](http://de.slideshare.net/DanielRidder1/daniel-ridder-best-practices-sap-gateway-builder) by Daniel Ridder
 - [What's new in IoT & Industry 4.0 space ](http://www.slideshare.net/KarolKalisz/sitfra-2016-whats-new-in-iot-industry-40-space) by Karol Kalisz
+- [HCP on the ISS - How to connect an Astro-Pi to HCP using IoT Service ](http://ceedee666.github.io/sitfra_2016/) by Christian Drumm
+- [How to RESTify your ABAP backend](http://de.slideshare.net/DanielRidder1/how-to-restify-your-existing-abap-backend) by Daniel Ridder
+- [Logical Abduction and an Application in Business Rules Management](http://de.slideshare.net/ttrapp/logical-abduction-and-an-application-on-business-rules-management) by Tobias Trapp
+- [Hana Car](https://prezi.com/l9k9aufq3c8s/hana-car/) by Wouter Lemaire, Jérémy Coppey, Jonas Vanderkelen
+- [Challenges in Infrastructure Monitoring](http://de.slideshare.net/dakoller/five-pillars-of-infrastructure-monitoring) by Daniel Koller
 
 ### SAP UI5Con Frankfurt 2016
 - [Unexpected SAPUI5 apps (Star Wars, Chuck Norris)](https://ui5con2016slides-d062712trial.dispatcher.hanatrial.ondemand.com/slides/index.html#/) by Denise Nepraunig
