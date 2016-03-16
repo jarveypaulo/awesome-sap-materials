@@ -32,7 +32,7 @@ Tobias Trapp
 - [Controls - How They Work, How to Create Your Own](http://de.slideshare.net/andreaskunz/ui5-controls-ui5con-2016) by Andreas Kunz
 - [ABAP TO Fiori and back using OO](http://prezi.com/mfahxi_cen_z/) by Lemaire Wouter &onCoppey Jeremy
 - [UI5con - The OpenUI5 Spirit](http://de.slideshare.net/michadelic/ui5con-the-openui5-spirit) by Micha Delic
-
+- [UI5con Lessons Learned from SAP UI5 Implementations](http://de.slideshare.net/DennySchreber/ui5con-lessons-learned-from-sap-ui5-implementations) by Denny Schreber  
 
 ### Other useful materials
 - [SAPUI5-Deployer Project](http://scn.sap.com/community/ui-technology/blog/2015/05/24/sapui5-deployer-project) by Graham Robinson
