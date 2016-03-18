@@ -36,6 +36,8 @@ Tobias Trapp
 - [UI5con - The OpenUI5 Spirit](http://de.slideshare.net/michadelic/ui5con-the-openui5-spirit) by Micha Delic
 - [UI5con Lessons Learned from SAP UI5 Implementations](http://de.slideshare.net/DennySchreber/ui5con-lessons-learned-from-sap-ui5-implementations) by Denny Schreber  
 - [Hacking the Explored App by Adding Custom Code (UI5con 2016)](http://de.slideshare.net/NabiZamani/hacking-the-explored-app-by-adding-custom-code-ui5con-2016) by Nabi Zamani
+- [Using UI5 with Type Script](http://ovh.to/5SY3JLs) by Andreas Frische
+- [Using SAP Fiori Reference Apps as a Basis for your Fiori Apps](https://mdocs.sap.com/mcm/public/v1/open?shr=JfJR_ZLkIzl21IUJogbuDQfm9TiO6oUXnri7RED5EnQ) by Qun Li Ian Taylor    
 
 ### Other useful materials
 - [SAPUI5-Deployer Project](http://scn.sap.com/community/ui-technology/blog/2015/05/24/sapui5-deployer-project) by Graham Robinson
