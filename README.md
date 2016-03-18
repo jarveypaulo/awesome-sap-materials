@@ -35,6 +35,7 @@ Tobias Trapp
 - [ABAP TO Fiori and back using OO](http://prezi.com/mfahxi_cen_z/) by Lemaire Wouter & Jérémy Coppey
 - [UI5con - The OpenUI5 Spirit](http://de.slideshare.net/michadelic/ui5con-the-openui5-spirit) by Micha Delic
 - [UI5con Lessons Learned from SAP UI5 Implementations](http://de.slideshare.net/DennySchreber/ui5con-lessons-learned-from-sap-ui5-implementations) by Denny Schreber  
+- [Hacking the Explored App by Adding Custom Code (UI5con 2016)](http://de.slideshare.net/NabiZamani/hacking-the-explored-app-by-adding-custom-code-ui5con-2016) by Nabi Zamani
 
 ### Other useful materials
 - [SAPUI5-Deployer Project](http://scn.sap.com/community/ui-technology/blog/2015/05/24/sapui5-deployer-project) by Graham Robinson
