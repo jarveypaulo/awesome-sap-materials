@@ -23,6 +23,7 @@ A collection of awesome online SAP materials.
 - [Challenges in Infrastructure Monitoring](http://de.slideshare.net/dakoller/five-pillars-of-infrastructure-monitoring) by Daniel Koller
 - [SITFRA 2016 Prozesstracking with SAP Process Observer](http://de.slideshare.net/MartinHofmann99/sitfra-2016-prozesstracking-with-sap-process-observer) by Martin Hofmann
 - [From Zero to Fiori Launchpad and one custom app in 30 minutes](https://docs.google.com/document/d/1MAEFOaCJK-qlJYGEoSBIlVxx0LQr56U3I2Ubq5e6VjU/edit#heading=h.a56p1kh4ffen) by Gregor Wolf
+- [SAPHCP IoT](http://www.slideshare.net/tbroek/saphcp-iot-for-watermanagement) and [DEMO](https://www.youtube.com/watch?v=5x504nxMBXc) by Twan van den Broek
 
 ### SAP UI5Con Frankfurt 2016
 - [Unexpected SAPUI5 apps (Star Wars, Chuck Norris)](https://ui5con2016slides-d062712trial.dispatcher.hanatrial.ondemand.com/slides/index.html#/) by Denise Nepraunig
@@ -38,6 +39,8 @@ Tobias Trapp
 - [Hacking the Explored App by Adding Custom Code (UI5con 2016)](http://de.slideshare.net/NabiZamani/hacking-the-explored-app-by-adding-custom-code-ui5con-2016) by Nabi Zamani
 - [Using UI5 with Type Script](http://ovh.to/5SY3JLs) by Andreas Frische
 - [Using SAP Fiori Reference Apps as a Basis for your Fiori Apps](https://mdocs.sap.com/mcm/public/v1/open?shr=JfJR_ZLkIzl21IUJogbuDQfm9TiO6oUXnri7RED5EnQ) by Qun Li Ian Taylor    
+- [Analysis Path Framework - A Hidden Gem for Creating UI5](http://de.slideshare.net/ttrapp/analytics-fiori-with-the-analysis-path-framework) by Matthias Bollen & Tobias Trapp
+- [Minimize time-to-market with UI5](http://de.slideshare.net/BenjaminSteinvorth/minimize-timetomarket-with-ui5) by Benjamin Steinvorth
 
 ### Other useful materials
 - [SAPUI5-Deployer Project](http://scn.sap.com/community/ui-technology/blog/2015/05/24/sapui5-deployer-project) by Graham Robinson
